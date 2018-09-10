@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AgentLab
+Bundle-SymbolicName: org.openqa.selenium.api
+Bundle-Version: 3.0.1.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: org.openqa.selenium,
+ org.openqa.selenium.html5,
+ org.openqa.selenium.interactions,
+ org.openqa.selenium.interactions.internal,
+ org.openqa.selenium.internal,
+ org.openqa.selenium.logging,
+ org.openqa.selenium.mobile,
+ org.openqa.selenium.security

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AgentLab
+Bundle-SymbolicName: org.openqa.selenium.chrome.win32
+Bundle-Version: 2.27.0.qualifier
+Bundle-RequiredExecutionEnvironment: J2SE-1.5

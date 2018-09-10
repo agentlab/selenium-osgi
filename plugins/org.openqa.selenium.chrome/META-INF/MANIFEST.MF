@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AgentLab
+Bundle-SymbolicName: org.openqa.selenium.chrome
+Bundle-Version: 3.0.1.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: org.openqa.selenium.chrome
+Import-Package: com.google.common.base;version="18.0.0",
+ com.google.common.collect;version="18.0.0",
+ com.google.common.io;version="18.0.0",
+ com.google.gson;version="2.2.4"
+Require-Bundle: org.openqa.selenium.api;bundle-version="3.0.1",
+ org.openqa.selenium.remote.driver;bundle-version="3.0.1"
